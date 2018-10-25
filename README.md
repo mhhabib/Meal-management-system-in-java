@@ -6,20 +6,20 @@ It is the desktop base mess meal management system software. This application ta
 
 ### Input to software
 ```sh
-* Monthly amount to be update *
-* Everyday meal input *
-* Every bazar cost with marketer name, date, total cost*
-* House worker bill updatation *
-* Extra cost updation*
+* Monthly amount to be update
+* Everyday meal input 
+* Every bazar cost with marketer name, date, total cost
+* House worker bill updatation 
+* Extra cost updation
 ```
 
 ### Output from software
 ```sh
-* Shows meal rate *
-* Shows extra cost *
-* Shows house worker bill *
-* Shows total bill to be paid *
-* Export individual pdf file to print *
+* Shows meal rate 
+* Shows extra cost
+* Shows house worker bill 
+* Shows total bill to be paid 
+* Export individual pdf file to print 
 ```
 
 ### Copyrught and License
