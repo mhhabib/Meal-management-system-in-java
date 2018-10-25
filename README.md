@@ -6,3 +6,7 @@ Bazar cost and
 Extra cost calculation
 After the complition of month the admin submit the final page show button
 Then shows all individual cost of the month corresponding to the individual member
+
+
+### Copyrught and License
+Licensed under: [MIT LICENSE](License)
